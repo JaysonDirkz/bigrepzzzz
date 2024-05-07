@@ -16,3 +16,8 @@ Specs
 * Synced/unsynced per loop mogelijk
 * Dry signaal naar master out mogelijk, maar gaat uit automatisch na nieuwe opname loop.
 * Toggle switch voor limiting op master outputs
+
+Ideeën:
+* Fader voor tempo control?
+* Timestretch? (behouden van pitch bij veranderen tempo, toggle switch om dit uit te schakelen)
+* Faders voor tempo division per loop kanaal. (en werkt als tempo control in unsynced mode)
