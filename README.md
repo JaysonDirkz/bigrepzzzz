@@ -21,3 +21,5 @@ Ideeën:
 * Fader voor tempo control?
 * Timestretch? (behouden van pitch bij veranderen tempo, toggle switch om dit uit te schakelen)
 * Faders voor tempo division per loop kanaal. (en werkt als tempo control in unsynced mode)
+* Touchplate faders geïntegreerd in frontpanel (ic: CY8C20636A).
+* History record mode.
