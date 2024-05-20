@@ -1,5 +1,5 @@
 # bigrepzzzz
-Eurorack four channel stereo looper with faders
+A conceptual bigger stereo four channel looper.
 
 Functiebeschrijving:
 Zal uitblinken in end of chain looping.
@@ -23,3 +23,4 @@ Ideeën:
 * Faders voor tempo division per loop kanaal. (en werkt als tempo control in unsynced mode)
 * Touchplate faders geïntegreerd in frontpanel (ic: CY8C20636A).
 * History record mode.
+* low cut per channel
